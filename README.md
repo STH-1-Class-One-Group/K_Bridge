@@ -1,3 +1,8 @@
+![Build Status](https://github.com/your-team/k-meal-bridge/workflows/Test/badge.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![GitHub stars](https://img.shields.io/github/stars/your-team/k-meal-bridge)
+
 # K-Meal Bridge 🍜
 
 > A delivery assistant service for foreigners in Korea  
